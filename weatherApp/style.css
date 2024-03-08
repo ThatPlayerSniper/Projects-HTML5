@@ -41,7 +41,6 @@ body {
     padding-left: 10px;
     font-size: 20px; /* Adjust the size based on your design needs, using a unit like px */
     font-weight: 900; /* Numeric value for bold, adjust as needed */
-    text-transform: uppercase;
 }
 
 .searchBox input::placeholder{

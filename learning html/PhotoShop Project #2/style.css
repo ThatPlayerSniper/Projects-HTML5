@@ -1,0 +1,46 @@
+body {
+
+    background: url(imagens/fundo.gif) repeat-x;
+    font-family: Arial;
+    margin: 0px;
+}
+
+.header {
+    width: 800px;
+    height: 140px;
+    text-align: right;
+    margin: 0px auto;
+}
+
+.header img{
+    margin-top: 30px;
+    display: block;
+    float: left;
+}
+
+.nav {
+    list-style: none;
+    padding-left: 0px;
+    display: block;
+    float: left;
+    margin-left: 130px;
+    margin-top: 80px;
+}
+
+.nav li{
+    float: left;
+    margin-right: 20px;
+}
+
+.nav a{
+    text-decoration: none;
+    font-family: Arial;
+    color:black;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+.banner img{
+    align-items: center;
+}
+
